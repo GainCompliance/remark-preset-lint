@@ -1,4 +1,4 @@
-# remark-reset-lint
+# remark-preset-lint
 
 remark preset to configure remark-lint with our conventions
 
@@ -14,7 +14,7 @@ remark preset to configure remark-lint with our conventions
 ### Installation
 
 ```sh
-$ npm install @gaincompliance/remark-reset-lint --save-dev
+$ npm install @gaincompliance/remark-preset-lint --save-dev
 ```
 
 ## Contributing
@@ -38,12 +38,12 @@ $ npm install
 $ npm test
 ```
 
-[npm-link]: https://www.npmjs.com/package/@gaincompliance/remark-reset-lint
-[npm-badge]: https://img.shields.io/npm/v/@gaincompliance/remark-reset-lint.svg
+[npm-link]: https://www.npmjs.com/package/@gaincompliance/remark-preset-lint
+[npm-badge]: https://img.shields.io/npm/v/@gaincompliance/remark-preset-lint.svg
 [license-link]: LICENSE
-[license-badge]: https://img.shields.io/github/license/GainCompliance/remark-reset-lint.svg
-[ci-link]: https://travis-ci.com/GainCompliance/remark-reset-lint
-[ci-badge]: https://img.shields.io/travis/com/GainCompliance/remark-reset-lint/master.svg
+[license-badge]: https://img.shields.io/github/license/GainCompliance/remark-preset-lint.svg
+[ci-link]: https://travis-ci.com/GainCompliance/remark-preset-lint
+[ci-badge]: https://img.shields.io/travis/com/GainCompliance/remark-preset-lint/master.svg
 [commit-convention-link]: https://conventionalcommits.org
 [commit-convention-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg
 [commitizen-link]: http://commitizen.github.io/cz-cli/

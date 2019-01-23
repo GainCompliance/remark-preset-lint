@@ -1,4 +1,5 @@
 repository:
+  name: remark-preset-lint
   description: remark preset to configure remark-lint with our conventions
   homepage: 'https://npm.im/@gaincompliance/remark-reset-lint'
   private: false

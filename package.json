@@ -1,5 +1,5 @@
 {
-  "name": "@gaincompliance/remark-reset-lint",
+  "name": "@gaincompliance/remark-preset-lint",
   "description": "remark preset to configure remark-lint with our conventions",
   "version": "0.0.0-semantically-released",
   "main": "lib/index.cjs.js",
