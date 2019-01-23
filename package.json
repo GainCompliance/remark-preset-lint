@@ -3,9 +3,9 @@
   "description": "remark preset to configure remark-lint with our conventions",
   "version": "0.0.0-semantically-released",
   "license": "MIT",
-  "repository": "GainCompliance/remark-reset-lint",
-  "bugs": "https://github.com/GainCompliance/remark-reset-lint/issues",
-  "homepage": "https://npm.im/@gaincompliance/remark-reset-lint",
+  "repository": "GainCompliance/remark-preset-lint",
+  "bugs": "https://github.com/GainCompliance/remark-preset-lint/issues",
+  "homepage": "https://npm.im/@gaincompliance/remark-preset-lint",
   "author": "Gain Compliance (https://github.com/GainCompliance)",
   "scripts": {
     "clean": "rimraf lib/",
