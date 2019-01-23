@@ -1,7 +1,5 @@
 # remark-preset-lint
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/GainCompliance/remark-preset-lint.svg)](https://greenkeeper.io/)
-
 remark preset to configure remark-lint with our conventions
 
 <!-- status badges -->
@@ -26,6 +24,7 @@ $ npm install @gaincompliance/remark-preset-lint --save-dev
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![semantic-release][semantic-release-badge]][semantic-release-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
+[![Greenkeeper badge](https://badges.greenkeeper.io/GainCompliance/remark-preset-lint.svg)](https://greenkeeper.io/)
 
 ### Dependencies
 
