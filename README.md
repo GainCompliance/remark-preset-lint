@@ -1,5 +1,7 @@
 # remark-preset-lint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GainCompliance/remark-preset-lint.svg)](https://greenkeeper.io/)
+
 remark preset to configure remark-lint with our conventions
 
 <!-- status badges -->
