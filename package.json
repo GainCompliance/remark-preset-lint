@@ -1,5 +1,5 @@
 {
-  "name": "@gaincompliance/remark-preset-lint",
+  "name": "remark-preset-lint-gain",
   "description": "remark preset to configure remark-lint with our conventions",
   "version": "0.0.0-semantically-released",
   "license": "MIT",
