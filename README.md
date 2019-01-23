@@ -14,7 +14,21 @@ remark preset to configure remark-lint with our conventions
 ### Installation
 
 ```sh
-$ npm install @gaincompliance/remark-preset-lint --save-dev
+$ npm install remark remark-cli @gaincompliance/remark-preset-lint --save-dev
+```
+
+### Configure
+
+Add to the project's `.remarkrc.js`:
+
+```js
+exports.plugins = ['@gaincompliance/remark-preset-lint'];
+```
+
+Add an npm script that will run as part of `npm test`:
+
+```
+"lint:md": "remark --frail ."
 ```
 
 ## Contributing
