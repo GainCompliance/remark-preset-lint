@@ -1,1 +1,1 @@
-exports.plugins = [require('remark-preset-lint-travi')];
+exports.plugins = [require('@form8ion/remark-lint-preset')];
